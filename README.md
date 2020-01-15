@@ -1,0 +1,2 @@
+# AzuareDemos
+.Net Core projects
